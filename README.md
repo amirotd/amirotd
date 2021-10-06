@@ -3,33 +3,47 @@
 <h1 align="center">Hi 👋, I am Amir oshtoudan </h1>
 <h3 align="center">Embedded Systems Software Developer | Electronics Engineer</h3>
 
+---
+
 <br><br>
 <img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<br><br>
 ✔ <em>B.sc of Electrical and Electronics Engineering <b>Graduated</b> from <b>University Of Tabriz</b>.<br></em>
-✔ <b>an Embedded Systems Software Developer</b> and an <b>Electronics Engineer</b>, who is <b>obsessed</b> with <b>Digital Signal Processing</b> and <b>Digital Image Processing</b> and <b>Computer Vision</b>.
-<!--
-**amirotd/amirotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔ <em><b>an Embedded Systems Software Developer</b> and an <b>Electronics Engineer</b>, who is <b>obsessed</b> with <b>Digital Signal Processing</b> and <b>Digital Image Processing</b> and <b>Computer Vision</b>.</em>
+✔ <em>an Open Source enthusiast :))</em>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
+
+<br><br><br><br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
+<br><br>
 <p align="center">
-<a href="https://www.linkedin.com/in/amir-oshtoudan-a7765b207/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/amir_otd/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
- <a href = "mailto: amir.otd.1@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+  <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
+  <img src="https://github.com/amirotd/amirotd/blob/main/C.png" height=40 hspace=10>
+  <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
 </p>
+
 ---
+
+<br><br><br><br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
+<br><br>
+<p align="center">
+    <a href="https://github.com/amirotd" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/amir-oshtoudan-a7765b207/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+    </a>
+    <a href="mailto:amir.otd.1@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+    </a>
+</p>
+
+---
+
 <table>
   <tr>
      <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=vue-dark&hide=prs,issues"/></th>
