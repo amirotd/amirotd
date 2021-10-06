@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 <br><br>
 ✔ <em>B.sc of Electrical and Electronics Engineering <b>Graduated</b> from <b>University Of Tabriz</b>.<br></em>
-✔ <em><b>an Embedded Systems Software Developer</b> and an <b>Electronics Engineer</b>, who is <b>obsessed</b> with <b>Digital Signal Processing</b> and <b>Digital Image Processing</b> and <b>Computer Vision</b>.<br></em>
+✔ <em><b>an Embedded Systems Software Developer</b> and an <b>Electronics Engineer</b>, who is interested in <b>Digital Signal Processing</b>, <b>Digital Image Processing</b> and <b>Computer Vision</b>.<br></em>
 ✔ <em>an <b>Open Source</b> enthusiast :))</em><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
