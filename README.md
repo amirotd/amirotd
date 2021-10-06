@@ -10,18 +10,16 @@
 <br><br>
 ✔ <em>B.sc of Electrical and Electronics Engineering <b>Graduated</b> from <b>University Of Tabriz</b>.<br></em>
 ✔ <em><b>an Embedded Systems Software Developer</b> and an <b>Electronics Engineer</b>, who is <b>obsessed</b> with <b>Digital Signal Processing</b> and <b>Digital Image Processing</b> and <b>Computer Vision</b>.<br></em>
-✔ <em>an Open Source enthusiast :))</em>
+✔ <em>an Open Source enthusiast :))</em><br>
 
-<br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
 <br>
 <p align="center">
   <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/C.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
-</p>
+</p><br>
 
-<br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
 <br><br>
 <p align="center">
@@ -37,7 +35,7 @@
 </p>
 
 ---
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git stats...</b></i></p><br>
+<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git stats...</b></i></p><br>
 <table>
   <tr>
      <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=vue-dark&hide=prs,issues"/></th>
