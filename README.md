@@ -1,6 +1,6 @@
 <img align="right" src="https://gpvc.arturio.dev/amirotd">
 <hr>
-<h1 align="center">Hi 👋, I am Amir oshtoudan </h1>
+<h1 align="center">Hi 👋, I am Amir Oshtoudan </h1>
 <h3 align="center">Embedded Systems Software Developer | Electronics Engineer</h3>
 
 <br><br>
@@ -10,7 +10,7 @@
 <br><br>
 ✔ <em>B.sc of Electrical and Electronics Engineering <b>Graduated</b> from <b>University Of Tabriz</b>.<br></em>
 ✔ <em><b>an Embedded Systems Software Developer</b> and an <b>Electronics Engineer</b>, who is <b>obsessed</b> with <b>Digital Signal Processing</b> and <b>Digital Image Processing</b> and <b>Computer Vision</b>.<br></em>
-✔ <em>an Open Source enthusiast :))</em><br>
+✔ <em>an <b>Open Source</b> enthusiast :))</em><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
 <br>
@@ -42,7 +42,7 @@
      <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=vue-dark"/></th>
   </tr>
 </table><br>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p>
 <table>
   <tr>
      <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=gruvbox&row=2&column=3"></th>
