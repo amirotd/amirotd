@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </table>
 <table>
   <tr>
-     <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=gotham&row=2&column=3"></th>
+     <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=gruvbox&row=2&column=3"></th>
      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=dark"></th>
   </tr>
 </table>
