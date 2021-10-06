@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <img widht=400px align="left" src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=gotham"/>
 <img width=400px align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=gotham"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark">
 
