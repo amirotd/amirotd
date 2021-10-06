@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 <table>
   <tr>
      <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=gotham"/></th>
-     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark"></th>
+     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=gotham"/></th>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=gotham"/>
+<table>
+  <tr>
+     <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=gotham&row=2&column=3"></th>
+     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=dark"></th>
+  </tr>
+</table>
+
 
 
