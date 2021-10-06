@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-     <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=gotham"/></th>
+     <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=gotham&hide=prs,issues"/></th>
      <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=gotham"/></th>
   </tr>
 </table>
