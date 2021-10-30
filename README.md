@@ -41,15 +41,15 @@
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git stats...</b></i></p>
 <table>
   <tr>
-     <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=vue-dark&hide=prs,issues"/></th>
-     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=vue-dark"/></th>
+     <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=gruvbox_light&hide=prs,issues"/></th>
+     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=gruvbox_light"/></th>
   </tr>
 </table><br>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p>
 <table>
   <tr>
      <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=gruvbox&row=2&column=3"></th>
-     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=vue-dark"></th>
+     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=gruvbox_light"></th>
   </tr>
 </table>
 
