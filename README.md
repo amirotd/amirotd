@@ -48,7 +48,7 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p>
 <table>
   <tr>
-     <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=gruvbox&row=2&column=3"></th>
+     <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=flat&row=2&column=3"></th>
      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=gruvbox"></th>
   </tr>
 </table>
