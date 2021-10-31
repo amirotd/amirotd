@@ -49,7 +49,7 @@
 <table>
   <tr>
      <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=onedark&row=2&column=3&no-bg=true&no-frame=true"></th>
-     <th width=60%><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=onedark&hide_border=true&background=00000000"></th>
+     <th width=50%><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=onedark&hide_border=true&background=00000000"></th>
   </tr>
 </table>
 
