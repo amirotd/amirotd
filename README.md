@@ -52,6 +52,3 @@
      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=onedark&hide_border=true&background=00000000"></th>
   </tr>
 </table>
-
-
-
