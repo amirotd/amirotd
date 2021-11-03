@@ -35,6 +35,9 @@
     <a href="mailto:amir.otd.1@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
+    <a href="https://twitter.com/iamirotd" target="_blank">
+        <img src="https://img.shields.io/badge/-twitter-1d9bf0?logo=twitter&logoColor=white&style=for-the-badge" alt="Gmail">
+    </a>
 </p>
 
 ---
