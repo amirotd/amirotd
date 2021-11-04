@@ -26,9 +26,6 @@
     <a href="https://stackoverflow.com/users/17121397/amir-otd" target="_blank">
         <img src="https://img.shields.io/badge/-stackoverflow-f48024?&logo=stackoverflow&logoColor=white&style=for-the-badge" alt="StackOverflow">
     </a>
-    <a href="https://github.com/amirotd" target="_blank">
-        <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
-    </a>
     <a href="https://www.linkedin.com/in/amir-oshtoudan-a7765b207/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
     </a>
