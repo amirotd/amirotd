@@ -1,4 +1,4 @@
-<img align="right" src="https://gpvc.arturio.dev/amirotd">
+<img align="right" src="https://gpvc.arturio.dev/amirotd"> 
 <hr>
 <h1 align="center">Hi 👋, I am Amir Oshtoudan </h1>
 <h3 align="center">Embedded Systems Software Developer | Electronics Engineer</h3>
