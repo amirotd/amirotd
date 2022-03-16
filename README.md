@@ -1,8 +1,17 @@
-<img align="right" src="https://gpvc.arturio.dev/amirotd"> 
-<hr>
-<h1 align="center">Hi 👋, I am Amir Oshtoudan </h1>
-<h3 align="center">Embedded Systems Software Developer | Electronics Engineer</h3>
+```
+Hi I'm
+    _     _    _   ___   ___
+   /_\   | \  / | |_ _| | _ \
+  / _ \  | |\/| |  | |  |   /
+ /_/ \_\ |_|  |_| |___| |_|_\
 
+   ___    ___   _  _   _____    ___    _   _   ___      _     _  _
+  / _ \  / __| | || | |_   _|  / _ \  | | | | |   \    /_\   | \| |
+ | (_) | \__ \ | __ |   | |   | (_) | | |_| | | |) |  / _ \  | .` |
+  \___/  |___/ |_||_|   |_|    \___/   \___/  |___/  /_/ \_\ |_|\_|
+
+Embedded Systems Software Developer | Electronics Engineer 
+```
 <br><br>
 <img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
 
