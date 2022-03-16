@@ -15,11 +15,12 @@ Embedded Systems Software Developer | Electronics Engineer
 <br><br>
 <img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-<br><br>
-✔ <em>B.sc of Electrical and Electronics Engineering <b>Graduated</b> from <b>University Of Tabriz</b>.<br></em>
-✔ <em>an <b>Embedded Systems Software Developer</b> and an <b>Electronics Engineer</b>, who is interested in <b>Digital Signal Processing</b>, <b>Digital Image Processing</b> and <b>Computer Vision</b>.<br></em>
-✔ <em>an <b>Open Source</b> enthusiast :))</em><br>
+```
+-> About me ....
+
+[+] an Embedded Systems Software Developer and an Electronics Engineer, who is interested in Digital Signal Processing, Digital Image Processing and Computer Vision.
+[+] an Open Source enthusiast :))
+```
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
 <br>
@@ -45,19 +46,3 @@ Embedded Systems Software Developer | Electronics Engineer
         <img src="https://img.shields.io/badge/-twitter-1d9bf0?logo=twitter&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
 </p>
-
----
-<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git stats...</b></i></p>
-<table>
-  <tr>
-     <th><img src="https://github-readme-stats.vercel.app/api?username=amirotd&show_icons=true&theme=gruvbox_light&hide=prs,issues"/></th>
-     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirotd&layout=compact&theme=gruvbox_light"/></th>
-  </tr>
-</table><br>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p>
-<table>
-  <tr>
-     <th><img src="https://github-profile-trophy.vercel.app/?username=amirotd&theme=onedark&row=2&column=3&no-bg=true&no-frame=true"></th>
-     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirotd&theme=onedark&hide_border=true&background=00000000"></th>
-  </tr>
-</table>
