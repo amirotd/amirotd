@@ -19,7 +19,7 @@ Hi I'm
     Digital Image Processing and Computer Vision.
 [+] an Open Source enthusiast :))
 ```
-<img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
+<img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />&nbsp;
 ***Preferred Languages ....***
 <br>
 <p align="center">
