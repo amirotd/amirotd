@@ -19,8 +19,7 @@ Hi I'm
     Digital Image Processing and Computer Vision.
 [+] an Open Source enthusiast :))
 ```
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
+***Preferred Languages ....***
 <br>
 <p align="center">
   <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
