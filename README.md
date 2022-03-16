@@ -25,9 +25,9 @@ Hi I'm
 <p align="center">
   <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/C.png" height=40 hspace=10>
-  <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
+  <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>&nbsp;
 </p>
-&nbsp;***[\*]Connect with me ....***
+***[\*]Connect with me ....***
 <br>
 <p align="center">
     <a href="https://stackoverflow.com/users/17121397/amir-otd" target="_blank">
