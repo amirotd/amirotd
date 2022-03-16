@@ -23,13 +23,13 @@ Hi I'm
 <b>[*]<em> Preferred Languages ....</em></b>
 <br>
 <p align="center">
-  <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
-  <img src="https://github.com/amirotd/amirotd/blob/main/C.png" height=40 hspace=10>
-  <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
+  <img src="https://github.com/amirotd/amirotd/blob/main/pixpython.png" height=40 hspace=10>
+  <img src="https://github.com/amirotd/amirotd/blob/main/pixc.png" height=40 hspace=10>
+  <img src="https://github.com/amirotd/amirotd/blob/main/pixcpp.png" height=40 hspace=10>
 </p>
 &nbsp;
 <b>[*]<em> Connect with me ....</em></b>
-<br>
+<br><br>
 <p align="center">
     <a href="https://stackoverflow.com/users/17121397/amir-otd" target="_blank">
         <img src="https://img.shields.io/badge/-stackoverflow-f48024?&logo=stackoverflow&logoColor=white&style=for-the-badge" alt="StackOverflow">
