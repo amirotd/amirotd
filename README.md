@@ -11,10 +11,7 @@ Hi I'm
   \___/  |___/ |_||_|   |_|    \___/   \___/  |___/  /_/ \_\ |_|\_|
 
         Embedded Systems Software Developer | Electronics Engineer 
-```
-<img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
 
-```
 -> About me ....
 
 [+] an Embedded Systems Software Developer and an Electronics Engineer, 
@@ -22,6 +19,7 @@ Hi I'm
     Digital Image Processing and Computer Vision.
 [+] an Open Source enthusiast :))
 ```
+<img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
 <br>
