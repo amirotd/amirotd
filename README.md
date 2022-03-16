@@ -19,7 +19,7 @@ Hi I'm
     Digital Image Processing and Computer Vision.
 [+] an Open Source enthusiast :))
 ```
-
+<img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />&nbsp;
 ***[\*] Preferred Languages ....***
 <br>
 <p align="center">
@@ -27,7 +27,9 @@ Hi I'm
   <img src="https://github.com/amirotd/amirotd/blob/main/C.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
 </p>
+&nbsp;
 ***[\*] Connect with me ....***
+<br>
 <p align="center">
     <a href="https://stackoverflow.com/users/17121397/amir-otd" target="_blank">
         <img src="https://img.shields.io/badge/-stackoverflow-f48024?&logo=stackoverflow&logoColor=white&style=for-the-badge" alt="StackOverflow">
