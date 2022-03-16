@@ -20,7 +20,7 @@ Hi I'm
 [+] an Open Source enthusiast :))
 ```
 <img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />&nbsp;
-***[\*] Preferred Languages ....***
+<b>[*]<em> Preferred Languages ....</em></b>
 <br>
 <p align="center">
   <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
@@ -28,7 +28,7 @@ Hi I'm
   <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
 </p>
 &nbsp;
-<b>[\*] Connect with me ....</b>
+<b>[*]<em> Connect with me ....</em></b>
 <br>
 <p align="center">
     <a href="https://stackoverflow.com/users/17121397/amir-otd" target="_blank">
