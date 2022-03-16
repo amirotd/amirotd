@@ -23,7 +23,7 @@ Hi I'm
 <b>[*]<em> Preferred Languages ....</em></b>
 <br>
 <p align="center">
-  <img src="https://github.com/amirotd/amirotd/blob/main/pixpython.png" height=40 hspace=10>
+  <img src="https://github.com/amirotd/amirotd/blob/main/pixpyton.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/pixc.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/pixcpp.png" height=40 hspace=10>
 </p>
