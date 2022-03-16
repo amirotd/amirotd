@@ -20,16 +20,14 @@ Hi I'm
 [+] an Open Source enthusiast :))
 ```
 <img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Preferred Languages ....***
+✔***Preferred Languages ....***
 <br>
 <p align="center">
   <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/C.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
 </p>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
+✔***Connect with me ....***
 <br>
 <p align="center">
     <a href="https://stackoverflow.com/users/17121397/amir-otd" target="_blank">
