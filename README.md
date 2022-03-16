@@ -26,7 +26,7 @@ Hi I'm
   <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/C.png" height=40 hspace=10>
   <img src="https://github.com/amirotd/amirotd/blob/main/Cpp.png" height=40 hspace=10>
-</p>
+</p>&nbsp;
 ***[\*]Connect with me ....***
 <br>
 <p align="center">
