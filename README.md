@@ -18,7 +18,9 @@ Embedded Systems Software Developer | Electronics Engineer
 ```
 -> About me ....
 
-[+] an Embedded Systems Software Developer and an Electronics Engineer, \n who is interested in Digital Signal Processing, \n Digital Image Processing and Computer Vision.
+[+] an Embedded Systems Software Developer and an Electronics Engineer, 
+    who is interested in Digital Signal Processing, 
+    Digital Image Processing and Computer Vision.
 [+] an Open Source enthusiast :))
 ```
 
