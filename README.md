@@ -20,7 +20,7 @@ Hi I'm
 [+] an Open Source enthusiast :))
 ```
 <img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />
-***Preferred Languages ....***
+***Preferred Languages***
 <br>
 <p align="center">
   <img src="https://github.com/amirotd/amirotd/blob/main/Python.png" height=40 hspace=10>
