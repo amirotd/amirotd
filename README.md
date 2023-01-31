@@ -10,13 +10,13 @@ Hi I'm
  | (_) | \__ \ | __ |   | |   | (_) | | |_| | | |) |  / _ \  | .` |
   \___/  |___/ |_||_|   |_|    \___/   \___/  |___/  /_/ \_\ |_|\_|
 
-        Embedded Systems Software Developer | Electronics Engineer 
+        Telecommunications Engineer | Embedded Systems Software Developer 
 
 -> About me ....
 
-[+] an Embedded Systems Software Developer and an Electronics Engineer, 
-    who is interested in Digital Signal Processing, 
-    Digital Image Processing and Computer Vision.
+[+] a Telecommunications Engineer and an Embedded Systems Software Developer, 
+    who is interested in Optical Wireless Communication, Digital Signal Processing
+    and Digital Image Processing.
 [+] an Open Source enthusiast :))
 ```
 <img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/amirotd/amirotd/blob/main/gify.gif" />&nbsp;
